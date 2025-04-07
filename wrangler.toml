@@ -24,7 +24,7 @@ id = "3628b986acf743d3a2836463fd826287"  # id of your KV namespace
 
 [vars]
 # must be consistent with your routes
-BASE_URL = "fakeyou.eu.org"
+BASE_URL = "https://fakeyou.eu.org"
 
 # url to repo, displayed in index page
 REPO = ""
